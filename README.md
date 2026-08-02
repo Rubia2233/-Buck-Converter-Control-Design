@@ -126,7 +126,7 @@ Buck-Converter-Control-Design/
 │   ├── Waveform plot.png
 │   └── Simulation schematic diagram.png
 └── docs/
-    └── design_notes.md           # 详细设计笔记（可选）
+    └── design_notes.md           # 详细设计笔记
 ```
 
 ---

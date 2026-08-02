@@ -112,7 +112,7 @@ f_{LC} = \frac{1}{2\pi\sqrt{LC}} \approx 503 \text{ Hz}
 | 超调量 | 0% |
 | 振荡 | 无 |
 
-波形截图见 `figures/` 目录。
+波形截图与仿真结构图见 `figures/` 目录。
 
 ---
 
@@ -122,9 +122,9 @@ f_{LC} = \frac{1}{2\pi\sqrt{LC}} \approx 503 \text{ Hz}
 Buck-Converter-Control-Design/
 ├── README.md                     # 本文件
 ├── Buck_Converter_Control.slx    # Simulink 模型
-├── figures/                      # 仿真波形截图
-│   ├── startup_response.png
-│   └── steady_state.png
+├── figures/                      # 仿真波形截图与结构图
+│   ├── Waveform plot.png
+│   └── Simulation schematic diagram.png
 └── docs/
     └── design_notes.md           # 详细设计笔记（可选）
 ```

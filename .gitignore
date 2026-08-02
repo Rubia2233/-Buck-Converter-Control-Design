@@ -1,0 +1,14 @@
+# MATLAB / Simulink
+*.slxc
+*.slx.autosave
+*.mdl.autosave
+slprj/
+__pycache__/
+*.mex*
+*.mexw64
+*.mexa64
+*.mexmaci64
+
+# OS
+.DS_Store
+Thumbs.db

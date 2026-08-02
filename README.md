@@ -134,7 +134,7 @@ Buck-Converter-Control-Design/
 ## 如何使用
 
 1. 克隆本仓库
-2. 用 MATLAB R2021b 或更新版本打开 `.slx` 模型
+2. 用 MATLAB R2025a 打开 `.slx` 模型
 3. 点击运行（仿真停止时间 0.5s）
 4. 打开 Scope 查看输出波形
 
